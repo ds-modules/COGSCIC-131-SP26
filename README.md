@@ -1,5 +1,5 @@
 # COGSCIC-131-SP26
-Public Repo for COGSCIC 131 Spring 2026
+Public Repo for COGSCIC 131 
 
 COGSCIC 131 - Computational Models of Cognition - Spring 26
 
